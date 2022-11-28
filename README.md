@@ -19,4 +19,4 @@
 
 ## Instalación
 
--A completar.
+- A completar.
